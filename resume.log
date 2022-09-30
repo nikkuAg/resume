@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2022.3.12)  5 APR 2022 03:16
-=======
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2022.3.12)  5 APR 2022 03:10
->>>>>>> aebc2453ba8ecb65d8d4480337dc4a0a6d3d4a5e
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2022.3.12)  30 SEP 2022 13:08
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -1023,16 +1019,18 @@ able
 t line 19.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 19.
-) (resume/projects.tex
+) (resume/experience.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 19.
+(Font)              scaled to size 9.0pt on input line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 19.
-) (resume/achievements.tex
+(Font)              scaled to size 9.0pt on input line 25.
+) (resume/projects.tex) [1
+
+]
+(resume/writing.tex) (resume/achievements.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 22.
-)
-(resume/skills.tex
+) (resume/skills.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 9.00096pt on input line 15.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -1052,9 +1050,7 @@ Overfull \hbox (25.2879pt too wide) in alignment at lines 10--39
 [] [] 
  []
 
-) (resume/writing.tex [1
-
-]) (resume/extracurricular.tex
+) (resume/extracurricular.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 23.
 ) [2] (resume.aux)
@@ -1062,12 +1058,12 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31206 strings out of 411722
- 610757 string characters out of 2836931
- 1109620 words of memory out of 3000000
- 50679 multiletter control sequences out of 15000+600000
+ 31210 strings out of 411722
+ 610830 string characters out of 2836931
+ 1108620 words of memory out of 3000000
+ 50680 multiletter control sequences out of 15000+600000
  407412 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 127i,12n,130p,546b,528s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 127i,12n,130p,546b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (2 pages).
