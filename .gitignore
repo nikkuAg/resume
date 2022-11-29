@@ -1,2 +1,5 @@
 Awesome_CV.pdf
 *.swp
+*.log
+*.out
+*.synctex.gz

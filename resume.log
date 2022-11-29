@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2022.3.12)  30 SEP 2022 13:08
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2022.3.12)  29 NOV 2022 16:38
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -1024,10 +1024,10 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 25.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 25.
-) (resume/projects.tex) [1
+) (resume/projects.tex)
+(resume/writing.tex [1
 
-]
-(resume/writing.tex) (resume/achievements.tex
+]) (resume/achievements.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 22.
 ) (resume/skills.tex
@@ -1058,10 +1058,10 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31210 strings out of 411722
- 610830 string characters out of 2836931
- 1108620 words of memory out of 3000000
- 50680 multiletter control sequences out of 15000+600000
+ 31215 strings out of 411722
+ 610861 string characters out of 2836931
+ 1110620 words of memory out of 3000000
+ 50685 multiletter control sequences out of 15000+600000
  407412 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  127i,12n,130p,546b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
